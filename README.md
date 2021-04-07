@@ -1,2 +1,2 @@
 # trabajo
-trabajo repositorio R
+trabajo repositorio R-studio
